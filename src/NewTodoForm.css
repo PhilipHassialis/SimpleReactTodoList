@@ -1,0 +1,36 @@
+.NewTodoForm {
+    width: 95%;
+    border: 1px solid #cccccc;
+    padding: 5px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.NewTodoForm form {
+    display: flex;
+}
+
+.NewTodoForm form input {
+    flex: 2;
+    height: 1.5em;
+    margin: 2px;
+}
+
+.NewTodoForm form label {
+    margin: auto;
+    justify-content: center;
+}
+
+.NewTodoForm form button {
+    height: 2em;
+    margin: auto;
+    justify-content: center;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.NewTodoForm form button:hover {
+    background: lightpink;
+}
