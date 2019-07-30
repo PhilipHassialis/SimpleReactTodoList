@@ -1,10 +1,10 @@
-#Instructions
+# Instructions
 
 -   Download
 -   npm install
 -   npm run start
 
-#Usage
+# Usage
 
 -   Add todos
 -   Edit todos
